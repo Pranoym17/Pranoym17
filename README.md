@@ -3,7 +3,20 @@
 <h3><code>pranoym17@github ~ $ ./contributions.sh</code></h3>
 <img src="./contrib-heatmap.svg" width="820" />
 
-<br><br>
+<br>
+<img src="./scope-divider.svg" width="820" />
+<br>
+
+<h3><code>pranoym17@github ~ $ ./snake.sh</code></h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranoym17/pranoym17/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranoym17/pranoym17/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/pranoym17/pranoym17/output/github-contribution-grid-snake-dark.svg" width="820" />
+</picture>
+
+<br>
+<img src="./scope-divider.svg" width="820" />
+<br>
 
 <h3><code>pranoym17@github ~ $ whoami</code></h3>
 <table>
@@ -13,7 +26,9 @@
   </tr>
 </table>
 
-<br><br>
+<br>
+<img src="./scope-divider.svg" width="820" />
+<br>
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
