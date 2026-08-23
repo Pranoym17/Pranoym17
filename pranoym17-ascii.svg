@@ -1,0 +1,711 @@
+<svg viewBox="0 0 650.0 816.5" xmlns="http://www.w3.org/2000/svg" font-family="'SF Mono','Consolas','Menlo',monospace">
+<style>.ascii-row { font-size:13px; fill:#c9d1d9; white-space:pre; }</style>
+<clipPath id="clip0">
+  <rect x="10" y="12.4" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="0.000s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip0)">
+  <text x="10" y="25.4" class="ascii-row">                                            ...                                           </text>
+</g>
+<rect x="10" y="12.4" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="0.000s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="0.000s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip1">
+  <rect x="10" y="25.9" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="0.028s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip1)">
+  <text x="10" y="38.9" class="ascii-row">                                  ....          .                                         </text>
+</g>
+<rect x="10" y="25.9" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="0.028s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="0.028s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip2">
+  <rect x="10" y="39.4" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="0.056s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip2)">
+  <text x="10" y="52.4" class="ascii-row">                             ....       ..  .`.. ..                                       </text>
+</g>
+<rect x="10" y="39.4" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="0.056s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="0.056s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip3">
+  <rect x="10" y="52.9" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="0.084s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip3)">
+  <text x="10" y="65.9" class="ascii-row">                            .     .``..   .::::-`   ..                                    </text>
+</g>
+<rect x="10" y="52.9" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="0.084s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="0.084s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip4">
+  <rect x="10" y="66.4" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="0.112s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip4)">
+  <text x="10" y="79.4" class="ascii-row">                         .   .`:`:--==--:``--:::-:.    .                                  </text>
+</g>
+<rect x="10" y="66.4" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="0.112s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="0.112s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip5">
+  <rect x="10" y="79.9" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="0.140s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip5)">
+  <text x="10" y="92.9" class="ascii-row">                          ...---=-=*c+*cc**csc***==-`..  ...                              </text>
+</g>
+<rect x="10" y="79.9" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="0.140s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="0.140s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip6">
+  <rect x="10" y="93.4" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="0.168s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip6)">
+  <text x="10" y="106.4" class="ascii-row">                    ..  .-+===--=css#sss#sc#sss##ssc+=::.                                 </text>
+</g>
+<rect x="10" y="93.4" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="0.168s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="0.168s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip7">
+  <rect x="10" y="106.9" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="0.196s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip7)">
+  <text x="10" y="119.9" class="ascii-row">                   .  ..-=:`-c**s#scs###cc##%####scssc===:=` .                            </text>
+</g>
+<rect x="10" y="106.9" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="0.196s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="0.196s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip8">
+  <rect x="10" y="120.4" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="0.224s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip8)">
+  <text x="10" y="133.4" class="ascii-row">                 .  `:::=**+**c#%ccscs#%*s%s#%###cc#%##sc+c=  ..                          </text>
+</g>
+<rect x="10" y="120.4" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="0.224s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="0.224s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip9">
+  <rect x="10" y="133.9" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="0.252s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip9)">
+  <text x="10" y="146.9" class="ascii-row">                  .:=--++c*sssscs#%###s%%s#sc%##%scss#s%cscc+`  ...                       </text>
+</g>
+<rect x="10" y="133.9" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="0.252s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="0.252s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip10">
+  <rect x="10" y="147.4" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="0.280s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip10)">
+  <text x="10" y="160.4" class="ascii-row">               . .=c*:-+#c#scsss#%#c#%#s#%cs#%%s#c#%css##%#css*-   .                      </text>
+</g>
+<rect x="10" y="147.4" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="0.280s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="0.280s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip11">
+  <rect x="10" y="160.9" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="0.308s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip11)">
+  <text x="10" y="173.9" class="ascii-row">               ...+s#++s##@sccc%sc*cs##s#sssscs###s%%#%#%#sssc#s=:.                       </text>
+</g>
+<rect x="10" y="160.9" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="0.308s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="0.308s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip12">
+  <rect x="10" y="174.4" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="0.336s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip12)">
+  <text x="10" y="187.4" class="ascii-row">                   =cs#sc**s+ss##csscs+=*###++*#ssss%#%#s#%%#*csc=+` .                    </text>
+</g>
+<rect x="10" y="174.4" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="0.336s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="0.336s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip13">
+  <rect x="10" y="187.9" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="0.364s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip13)">
+  <text x="10" y="200.9" class="ascii-row">                .``:+ccscc*+*cssc+*+c*+++**+*+c#*+*%sc##%s%%%#s#s=*- .                    </text>
+</g>
+<rect x="10" y="187.9" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="0.364s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="0.364s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip14">
+  <rect x="10" y="201.4" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="0.392s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip14)">
+  <text x="10" y="214.4" class="ascii-row">              . .:`:c*s#%%ss###c:::*+=-::``.:-````=+-+#s##%###sccc*` .                    </text>
+</g>
+<rect x="10" y="201.4" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="0.392s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="0.392s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip15">
+  <rect x="10" y="214.9" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="0.420s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip15)">
+  <text x="10" y="227.9" class="ascii-row">                   .+c%#ss#s=`-+=+++++=````-+==+++==-:-s%#%%##s*=+` .                     </text>
+</g>
+<rect x="10" y="214.9" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="0.420s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="0.420s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip16">
+  <rect x="10" y="228.4" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="0.448s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip16)">
+  <text x="10" y="241.4" class="ascii-row">                 ....`+#ccc=:===+++*c**+---+**c*=---=+--c#%%%%sc+` .                      </text>
+</g>
+<rect x="10" y="228.4" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="0.448s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="0.448s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip17">
+  <rect x="10" y="241.9" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="0.476s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip17)">
+  <text x="10" y="254.9" class="ascii-row">                      .cscs=**:=++cs***+---++c*cc+++=++=c#%%%ssc-..                       </text>
+</g>
+<rect x="10" y="241.9" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="0.476s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="0.476s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip18">
+  <rect x="10" y="255.4" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="0.504s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip18)">
+  <text x="10" y="268.4" class="ascii-row">                    ..`+*=*+`-:+++*c*+=-`:=+-=***++=-=--*c++sss`                          </text>
+</g>
+<rect x="10" y="255.4" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="0.504s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="0.504s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip19">
+  <rect x="10" y="268.9" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="0.532s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip19)">
+  <text x="10" y="281.9" class="ascii-row">                   . .**+-+=`::`--=--:=`.::++::---:::-:-+=-+*s= .                         </text>
+</g>
+<rect x="10" y="268.9" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="0.532s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="0.532s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip20">
+  <rect x="10" y="282.4" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="0.560s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip20)">
+  <text x="10" y="295.4" class="ascii-row">                      .=++s+``::=+====``-----+=-----::==++==*: .                          </text>
+</g>
+<rect x="10" y="282.4" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="0.560s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="0.560s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip21">
+  <rect x="10" y="295.9" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="0.588s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip21)">
+  <text x="10" y="308.9" class="ascii-row">                     . :*c#c::``-+++c*=ccccc**+*+--::=+*==c++...                          </text>
+</g>
+<rect x="10" y="295.9" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="0.588s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="0.588s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip22">
+  <rect x="10" y="309.4" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="0.616s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip22)">
+  <text x="10" y="322.4" class="ascii-row">                      ..+*=s+---=**c*:`:+*+++==+*==-=+**+=++-..                           </text>
+</g>
+<rect x="10" y="309.4" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="0.616s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="0.616s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip23">
+  <rect x="10" y="322.9" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="0.644s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip23)">
+  <text x="10" y="335.9" class="ascii-row">                      . .-+s*-=++css++*cccssccc+**=+++**+++: .                            </text>
+</g>
+<rect x="10" y="322.9" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="0.644s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="0.644s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip24">
+  <rect x="10" y="336.4" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="0.672s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip24)">
+  <text x="10" y="349.4" class="ascii-row">                       . .-c*==++*ssc+=-+*+*csc**==++++*+=` .                             </text>
+</g>
+<rect x="10" y="336.4" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="0.672s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="0.672s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip25">
+  <rect x="10" y="349.9" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="0.700s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip25)">
+  <text x="10" y="362.9" class="ascii-row">                        .  ..+==++**--=*ccccc*++++++++*-.  .                              </text>
+</g>
+<rect x="10" y="349.9" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="0.700s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="0.700s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip26">
+  <rect x="10" y="363.4" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="0.728s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip26)">
+  <text x="10" y="376.4" class="ascii-row">                          .  `*+==+=-----=+++++==++**c+. ..                               </text>
+</g>
+<rect x="10" y="363.4" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="0.728s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="0.728s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip27">
+  <rect x="10" y="376.9" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="0.756s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip27)">
+  <text x="10" y="389.9" class="ascii-row">                            . -**+*=:::-=++=+++++**ccc- .                                 </text>
+</g>
+<rect x="10" y="376.9" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="0.756s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="0.756s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip28">
+  <rect x="10" y="390.4" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="0.784s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip28)">
+  <text x="10" y="403.4" class="ascii-row">                            ..:=*cc*+++*c***cc*cssssc*=..                                 </text>
+</g>
+<rect x="10" y="390.4" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="0.784s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="0.784s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip29">
+  <rect x="10" y="403.9" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="0.812s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip29)">
+  <text x="10" y="416.9" class="ascii-row">                            . `-=**cccs###s#####sscc+*= ..                                </text>
+</g>
+<rect x="10" y="403.9" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="0.812s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="0.812s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip30">
+  <rect x="10" y="417.4" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="0.840s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip30)">
+  <text x="10" y="430.4" class="ascii-row">                           . .:-=+****ccss#ssccc*c**+*=.  .                               </text>
+</g>
+<rect x="10" y="417.4" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="0.840s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="0.840s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip31">
+  <rect x="10" y="430.9" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="0.868s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip31)">
+  <text x="10" y="443.9" class="ascii-row">                         .. .:.-==++*++=+****+****+++*:`+`  ..                            </text>
+</g>
+<rect x="10" y="430.9" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="0.868s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="0.868s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip32">
+  <rect x="10" y="444.4" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="0.896s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip32)">
+  <text x="10" y="457.4" class="ascii-row">                       ..  :s-..-=++++=+*******++++*+:.`s#-.  ...                         </text>
+</g>
+<rect x="10" y="444.4" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="0.896s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="0.896s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip33">
+  <rect x="10" y="457.9" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="0.924s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip33)">
+  <text x="10" y="470.9" class="ascii-row">                   ...   `=s#``..`-=++==*****++++++-`.:`+%#*-.   .....                    </text>
+</g>
+<rect x="10" y="457.9" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="0.924s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="0.924s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip34">
+  <rect x="10" y="471.4" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="0.952s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip34)">
+  <text x="10" y="484.4" class="ascii-row">               ....   .`-*cc%-..````:=+*++++++++=:```::`s#s#sc+:.      .....              </text>
+</g>
+<rect x="10" y="471.4" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="0.952s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="0.952s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip35">
+  <rect x="10" y="484.9" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="0.980s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip35)">
+  <text x="10" y="497.9" class="ascii-row">           ....    .`-*cc**c#c...`````:+**++=--``````:`:##ssssssc+=-`..     .....         </text>
+</g>
+<rect x="10" y="484.9" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="0.980s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="0.980s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip36">
+  <rect x="10" y="498.4" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="1.008s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip36)">
+  <text x="10" y="511.4" class="ascii-row">     .....     .`:=+*cscccc*s#:...```.``----:`..`````:`=%sssscsss##ssc*+-:`.      ....    </text>
+</g>
+<rect x="10" y="498.4" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="1.008s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="1.008s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip37">
+  <rect x="10" y="511.9" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="1.036s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip37)">
+  <text x="10" y="524.9" class="ascii-row">....      ..`:=+**csssscsc**c%*......=#%*-===+c+:.````.+%sscsss##s#ssssssscc+=:`..    .   </text>
+</g>
+<rect x="10" y="511.9" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="1.036s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="1.036s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip38">
+  <rect x="10" y="525.4" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="1.064s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip38)">
+  <text x="10" y="538.4" class="ascii-row">     .``:-=++***ccccccsscc***ss:...-#@@%scsss####+`````c#scccccsss#sssssssssssssc*+=-. .  </text>
+</g>
+<rect x="10" y="525.4" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="1.064s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="1.064s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip39">
+  <rect x="10" y="538.9" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="1.092s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip39)">
+  <text x="10" y="551.9" class="ascii-row">.:===+********cc**cc*csscc***c%=.`-*scss*#sssssss==:..:##scccccssc#ssssssscssssssss#c*` . </text>
+</g>
+<rect x="10" y="538.9" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="1.092s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="1.092s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip40">
+  <rect x="10" y="552.4" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="1.120s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip40)">
+  <text x="10" y="565.4" class="ascii-row">-+c#***+**********cs*ccsc***+*#c:=-:::=c**s###s#*:--:`=%ssccscssscssssscccccccccccc#c*+.. </text>
+</g>
+<rect x="10" y="552.4" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="1.120s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="1.120s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip41">
+  <rect x="10" y="565.9" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="1.148s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip41)">
+  <text x="10" y="578.9" class="ascii-row">==+#c++*****+++***c#c*ccc***+*##--:`::=+cc*###cc+:``::c%sscsccccccscccccccccccccc*c#***` .</text>
+</g>
+<rect x="10" y="565.9" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="1.148s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="1.148s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip42">
+  <rect x="10" y="579.4" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="1.176s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip42)">
+  <text x="10" y="592.4" class="ascii-row">-==s#+++++++++++**cs#*ccc*+*++c%=:-::`=-:c*ssc*c*:`::`s#ssccccccccccccccccccc***c*c#**c- .</text>
+</g>
+<rect x="10" y="579.4" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="1.176s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="1.176s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip43">
+  <rect x="10" y="592.9" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="1.204s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip43)">
+  <text x="10" y="605.9" class="ascii-row">---c%++++===+++++*cssc*c**++*+c%c:-`:`--`++ss***c-`:::##scccccccccccccc**********+ss+**+. </text>
+</g>
+<rect x="10" y="592.9" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="1.204s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="1.204s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip44">
+  <rect x="10" y="606.4" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="1.232s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip44)">
+  <text x="10" y="619.4" class="ascii-row">:--*%*++====++++++*ccs**c*++***#%--`::`::*css***c=`:`=%ssscccccccccccc***********+#c+***: </text>
+</g>
+<rect x="10" y="606.4" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="1.232s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="1.232s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip45">
+  <rect x="10" y="619.9" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="1.260s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip45)">
+  <text x="10" y="632.9" class="ascii-row">:--*%c++=--=+++++++cscc+c*+++**s%*:`::.-=c#ss***c+``:*%sssccccccsccc************+*#*+***+.</text>
+</g>
+<rect x="10" y="619.9" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="1.260s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="1.260s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip46">
+  <rect x="10" y="633.4" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="1.288s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip46)">
+  <text x="10" y="646.4" class="ascii-row">:-=*#s=+=--==+++==+ccc*+*c****+c%#:```.-=s#sc+***c:.:s#ssccccccccc*************++c#******-</text>
+</g>
+<rect x="10" y="633.4" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="1.288s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="1.288s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip47">
+  <rect x="10" y="646.9" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="1.316s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip47)">
+  <text x="10" y="659.9" class="ascii-row">:-=*##=+----=++=--*ccc**+*******s%=````-=css*++**c=.-%sccccccc*c**********+++++++#s+*****+</text>
+</g>
+<rect x="10" y="646.9" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="1.316s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="1.316s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip48">
+  <rect x="10" y="660.4" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="1.344s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip48)">
+  <text x="10" y="673.4" class="ascii-row">:-=+s%+-::--====--*cc****+c*****c%*.```-=cc*+++++*c.=%scccccc********++++*++++++*%c+******</text>
+</g>
+<rect x="10" y="660.4" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="1.344s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="1.344s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip49">
+  <rect x="10" y="673.9" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="1.372s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip49)">
+  <text x="10" y="686.9" class="ascii-row">:--+c%*-::--====-=*c******+ccc**cs#`.``-=*c+++++=*#`*#cccccc******++++++++++++++*%*+******</text>
+</g>
+<rect x="10" y="673.9" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="1.372s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="1.372s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip50">
+  <rect x="10" y="687.4" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="1.400s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip50)">
+  <text x="10" y="700.4" class="ascii-row">:--+*#c:::---===-=*******c+*cccccs#+.``--*c=+=+==+%+cscccccc*c*++*+++*++**+++++=c%***+++++</text>
+</g>
+<rect x="10" y="687.4" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="1.400s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="1.400s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip51">
+  <rect x="10" y="700.9" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="1.428s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip51)">
+  <text x="10" y="713.9" class="ascii-row">:-=+*s#--:::-===-=***c*****+*cccccs#:``-:+*++===-*%#*cccccc*c*+++**c++*****+++++##**++++++</text>
+</g>
+<rect x="10" y="700.9" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="1.428s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="1.428s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip52">
+  <rect x="10" y="714.4" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="1.456s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip52)">
+  <text x="10" y="727.4" class="ascii-row">`:=+*c%*-:::--===+cc*c*******cccccs%+``::+*++==-=c%s*sccccccc***cs*-::=ccc*++++c%c*+++=+++</text>
+</g>
+<rect x="10" y="714.4" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="1.456s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="1.456s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip53">
+  <rect x="10" y="727.9" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="1.484s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip53)">
+  <text x="10" y="740.9" class="ascii-row">`:=*cc##=::----=+*ccc*cc******ccccs#s:`::=*+====+c%**scccc*c**cs+:::-*+-*sc*+*+##****+=+++</text>
+</g>
+<rect x="10" y="727.9" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="1.484s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="1.484s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip54">
+  <rect x="10" y="741.4" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="1.512s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip54)">
+  <text x="10" y="754.4" class="ascii-row">::=*css%c::---==+*ccccccc****ccscss#%=.-:-c+===+=*#+sccccccc*ss=++=+*c*******cc%s****+===+</text>
+</g>
+<rect x="10" y="741.4" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="1.512s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="1.512s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip55">
+  <rect x="10" y="754.9" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="1.540s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip55)">
+  <text x="10" y="767.9" class="ascii-row">--=*cs#%%-----=++**cccccc****cccscss#s`-`-c+=+++=cc*sccccccccc++************ccc%s*c**+===+</text>
+</g>
+<rect x="10" y="754.9" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="1.540s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="1.540s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip56">
+  <rect x="10" y="768.4" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="1.568s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip56)">
+  <text x="10" y="781.4" class="ascii-row">===*cs#%@*==:-+++**ccccccc**ccsccss##%=:`-c++++++s*cscccccc*c*+++++********cc*s%scc**++===</text>
+</g>
+<rect x="10" y="768.4" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="1.568s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="1.568s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip57">
+  <rect x="10" y="781.9" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="1.596s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip57)">
+  <text x="10" y="794.9" class="ascii-row">*+*ccs#%@#*-:=+++++ccccccc*cccs#css##%s:.:c+++=++s*sccccccc*sc************cccc#@sccc+++==+</text>
+</g>
+<rect x="10" y="781.9" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="1.596s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="1.596s" dur="0.67s" fill="freeze"/>
+</rect>
+<clipPath id="clip58">
+  <rect x="10" y="795.4" width="0" height="18.2">
+    <animate attributeName="width" from="0" to="630.0" begin="1.624s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip58)">
+  <text x="10" y="808.4" class="ascii-row">***ccc##%@%=-+*+=+*cccccccc*ccc##cs###%=.:c*++==*c*sscccccc*c*************c*cs#%ccsc*++==+</text>
+</g>
+<rect x="10" y="795.4" width="6.3" height="16.9" fill="#c9d1d9" opacity="0">
+  <animate attributeName="x" from="10" to="633.7" begin="1.624s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" begin="1.624s" dur="0.67s" fill="freeze"/>
+</rect>
+</svg>
