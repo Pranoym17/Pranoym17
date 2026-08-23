@@ -1,13 +1,5 @@
 <div align="center">
 
-<h3><code>pranoym17@github ~ $ ./contributions.sh</code></h3>
-<img src="./contrib-heatmap.svg" width="820" />
-
-<br>
-<img src="./scope-divider.svg" width="820" />
-<br>
-
-<h3><code>pranoym17@github ~ $ ./snake.sh</code></h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranoym17/pranoym17/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranoym17/pranoym17/output/github-contribution-grid-snake.svg" />
@@ -18,7 +10,6 @@
 <img src="./scope-divider.svg" width="820" />
 <br>
 
-<h3><code>pranoym17@github ~ $ whoami</code></h3>
 <table>
   <tr>
     <td valign="top"><img src="./pranoym17-ascii.svg" width="310" /></td>
